@@ -1,5 +1,5 @@
 # List of Barcode & QR Code Datasets
-Preserve and centralize a list of known barcode & QR code datasets.
+Preserve and centralize known barcode & QR code datasets.
 
 ## Contents
 
