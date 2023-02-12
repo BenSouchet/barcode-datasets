@@ -3,24 +3,24 @@ Preserve and centralize a list of known barcode & QR code datasets.
 
 ## Contents
 
-- [Muenster BarcodeDB]()
-- [DEAL KAIST Lab Barcode Main]()
-- [DEAL KAIST Lab Barcode EAN-8]()
-- [DEAL KAIST Lab Barcode Multi]()
-- [Arte-Lab Medium Barcode 1D #1]()
-- [Arte-Lab Medium Barcode 1D #2]()
-- [Arte-Lab Hough Transform Barcode 1D]()
-- [InventBar]()
-- [ParcelBar]()
-- [Szentandrási QR Datasets]()
-- [Dubská QR Datasets #1]()
-- [Dubská QR Datasets #2]()
-- [Dubská HD Videos QR Datasets]()
-- [Synthetic Barcode Datasets (SBD)]()
-- [Bodnár-Huawei Syn10k]()
-- [QR-DN1.0]()
-- [SmartEngines Dataset]()
-- [Barcode Detection Annotated Dataset]()
+- [Muenster BarcodeDB](#muenster-barcodedb)
+- [DEAL KAIST Lab Barcode Main](#deal-kaist-lab-barcode-main)
+- [DEAL KAIST Lab Barcode EAN-8](#deal-kaist-lab-barcode-ean-8)
+- [DEAL KAIST Lab Barcode Multi](#deal-kaist-lab-barcode-multi)
+- [Arte-Lab Medium Barcode 1D #1](#arte-lab-medium-barcode-1d-1)
+- [Arte-Lab Medium Barcode 1D #2](#arte-lab-medium-barcode-1d-2)
+- [Arte-Lab Hough Transform Barcode 1D](#arte-lab-hough-transform-barcode-1d)
+- [InventBar](#inventbar)
+- [ParcelBar](#parcelbar)
+- [Szentandrási QR Datasets](#szentandr%C3%A1si-qr-datasets)
+- [Dubská QR Datasets #1](#dubsk%C3%A1-qr-datasets-1)
+- [Dubská QR Datasets #2](#dubsk%C3%A1-qr-datasets-2)
+- [Dubská HD Videos QR Datasets](#dubsk%C3%A1-hd-videos-qr-datasets)
+- [Synthetic Barcode Datasets (SBD)](#synthetic-barcode-datasets-sbd)
+- [Bodnár-Huawei Syn10k](#bodn%C3%A1r-huawei-syn10k)
+- [QR-DN1.0](#qr-dn10)
+- [SmartEngines Dataset](#smartengines-dataset)
+- [Barcode Detection Annotated Dataset](#barcode-detection-annotated-dataset)
 
 ### Muenster BarcodeDB
 
@@ -299,7 +299,7 @@ Preserve and centralize a list of known barcode & QR code datasets.
 | | |
 -|-
 **Symbologies** | CODABAR, CODE-39, CODE-93, CODE-128, EAN-13, UPC-A, UPC-E
-**Authors** | Artemiy Milovzorov,<br/>Vladimir V Arlazarov,<br />Pavel Bezmaternykh
+**Authors** | Artemiy Milovzorov, Vladimir V Arlazarov, Pavel Bezmaternykh
 **Nb of Images** | 51480
 **Resolution** | 512x512
 **Ground truth** | JSON files with barcode type, value/code and angle
