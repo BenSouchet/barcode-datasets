@@ -392,6 +392,21 @@ Datasets we know exists but seems **"lost"**, currently no availability online.
 **License** | CC BY 4.0
 **DOI** | [10.1109/CRV.2009.31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859730/pdf/nihms159120.pdf)
 
+### AI Generated Barcode Images/Masks Dataset
+
+| | |
+-|-
+**Symbologies** | UPCA
+**Authors** | Bruno Diaz
+**Nb of Images** | 32000
+**Resolution** | 512x256
+**Ground truth** | UPCA scan value third value in filename, Image and Mask images have same filenames.
+**Device** | N/A
+**Autofocus** | N/A
+**License** | CC BY-NC-SA 4.0
+**DOI** | N/A
+**Download** | [Link](https://www.kaggle.com/datasets/bd2927/ai-generated-barcode-imagesmasks-dataset)
+
 ## Contibuting
 
 - You know an **original** dataset not listed here and want to contribute?  
