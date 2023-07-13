@@ -21,6 +21,7 @@ Preserve and centralize known barcode & QR code datasets.
 - [QR-DN1.0](#qr-dn10)
 - [SmartEngines Dataset](#smartengines-dataset)
 - [Barcode Detection Annotated Dataset](#barcode-detection-annotated-dataset)
+- [AI Generated Barcode Images/Masks Dataset](#ai-generated-barcode-imagesmasks-dataset)
 
 ### Muenster BarcodeDB
 
@@ -326,6 +327,23 @@ Preserve and centralize known barcode & QR code datasets.
 **DOI** | N/A
 **Download** | [Link](https://www.kaggle.com/datasets/whoosis/barcode-detection-annotated-dataset)
 
+---
+
+### AI Generated Barcode Images/Masks Dataset
+
+| | |
+-|-
+**Symbologies** | UPCA
+**Authors** | [Bruno Diaz](https://github.com/bdiaz29)
+**Nb of Images** | 16032
+**Resolution** | 512x256
+**Ground truth** | UPCA scan value third value in filename, Image and Mask images have same filenames.
+**Device** | N/A
+**Autofocus** | N/A
+**License** | CC BY-NC-SA 4.0
+**DOI** | N/A
+**Download** | [Link](https://www.kaggle.com/datasets/bd2927/ai-generated-barcode-imagesmasks-dataset)
+
 ## Lost Datasets
 
 Datasets we know exists but seems **"lost"**, currently no availability online.
@@ -391,21 +409,6 @@ Datasets we know exists but seems **"lost"**, currently no availability online.
 **Autofocus** | Mix
 **License** | CC BY 4.0
 **DOI** | [10.1109/CRV.2009.31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859730/pdf/nihms159120.pdf)
-
-### AI Generated Barcode Images/Masks Dataset
-
-| | |
--|-
-**Symbologies** | UPCA
-**Authors** | Bruno Diaz
-**Nb of Images** | 32000
-**Resolution** | 512x256
-**Ground truth** | UPCA scan value third value in filename, Image and Mask images have same filenames.
-**Device** | N/A
-**Autofocus** | N/A
-**License** | CC BY-NC-SA 4.0
-**DOI** | N/A
-**Download** | [Link](https://www.kaggle.com/datasets/bd2927/ai-generated-barcode-imagesmasks-dataset)
 
 ## Contibuting
 
