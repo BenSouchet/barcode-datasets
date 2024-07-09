@@ -344,6 +344,40 @@ Preserve and centralize known barcode & QR code datasets.
 **DOI** | N/A
 **Download** | [Link](https://www.kaggle.com/datasets/bd2927/ai-generated-barcode-imagesmasks-dataset)
 
+---
+
+### Karrach-Pivarčiová QR Code Dataset 2020
+
+| | |
+-|-
+**Symbologies** | QR
+**Authors** | Ladislav Karrach, Elena Pivarčiová
+**Nb of Images** | 99
+**Resolution** | various, low resolution
+**Ground truth** | Annotations text file containing QR code values per file.
+**Device** | N/A
+**Autofocus** | N/A
+**License** | N/A
+**DOI** | [978-3-96595-022-1](https://www.researchgate.net/publication/364621971_Location_and_Recognition_of_Data_Matrix_and_QR_Codes_in_Images)
+**Download** | [Link](https://ram-verlag.org/wp-content/uploads/Dataset-QR-2020.zip)
+
+---
+
+### Karrach-Pivarčiová QR Code Dataset Industrial 2020
+
+| | |
+-|-
+**Symbologies** | QR
+**Authors** | Ladislav Karrach, Elena Pivarčiová
+**Nb of Images** | 85
+**Resolution** | various, low resolution
+**Ground truth** | N/A
+**Device** | N/A
+**Autofocus** | N/A
+**License** | N/A
+**DOI** | [978-3-96595-022-1](https://www.researchgate.net/publication/364621971_Location_and_Recognition_of_Data_Matrix_and_QR_Codes_in_Images)
+**Download** | [Link](https://ram-verlag.org/wp-content/uploads/Dataset-QR-Industrial-2020.zip)
+
 ## Lost Datasets
 
 Datasets we know exists but seems **"lost"**, currently no availability online.
